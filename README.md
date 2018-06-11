@@ -3,8 +3,6 @@ A curated list of worldwide legal anime streaming.
 
 For searching specific anime, you can use [because.moe](http://because.moe/) (US, UK, CA, AU) or [Kitsu](https://kitsu.io/anime).
 
-* Exact region limitation is unknown
-
 | Streaming Site  | Country / Area  | Language |  Note  |
 | ------------ | -------------- | ------------------ | ------------------ |
 | [Abema.tv](https://abema.tv/) | Japan |Japanese||
@@ -37,6 +35,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [Tribe](https://www.tribenow.tv/id)                  | Indonesia      | Japanese with Indonesian subtitle |Anime catalogue via Aniplus|
 | [VRV](https://vrv.co/)                               | United States  |  |Anime catalogue via Crunchyroll and Funimation|
 | [Viewster](https://www.viewster.com/genre/58/anime/) |                |         ||
-| [Vimeo](https://vimeo.com/) | *Worldwide |  |Has some indie anime|
+| [Vimeo](https://vimeo.com/) | Worldwide (exact region limitation is unknown) |  |Has some indie anime|
 |[Wakanim](http://www.wakanim.tv/fr/v2)|Most of Europe contingen|||
 | [Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime) | United States |         ||
