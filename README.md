@@ -7,7 +7,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | ------------ | -------------- | ------------------ | ------------------ |
 | [Abema.tv](https://abema.tv/) | Japan |Japanese||
 | [Amazon](http://amazon.com) | Worldwide |||
-| [Ani.me](https://ani.me/) | | English subtitle | Free streming with optional ad-free for 5.99USD |
+| [Ani.me](https://ani.me/) | | English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[Anibee](http://anibee.tv/movie/id/Anime)|Indonesia|||
 |[Animax UK](https://www.animaxtv.co.uk/)|United Kingdom|||
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Relaunched version of Tate Anime. iOS and Android app only.|
