@@ -21,7 +21,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [Crunchyroll](http://www.crunchyroll.com/)           | *Worldwide |         ||
 |[Docomo Anime Store](https://anime.dmkt-sp.jp/)|Japan|||
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)| Japan|||
-| [Fakku!](https://www.fakku.net/anime)||English subtitle|Provising adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
+| [Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provising adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 | [Funimation](https://www.funimation.com/) |North and Latin America|English||
 | [HiDive](http://hidive.com/)                         |                | English, Portuguese and Spanish, subtitle and dub depends on availability ||
 |[HOOQ](https://www.hooq.tv/welcome)|South East Asia and India|||
