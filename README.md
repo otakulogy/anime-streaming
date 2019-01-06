@@ -8,8 +8,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [Abema.tv](https://abema.tv/) | Japan |Japanese||
 | [Amazon](http://amazon.com) | Worldwide |||
 | [Ani.me](https://ani.me/) | | English subtitle | Free streaming with optional ad-free for 5.99USD |
-|[Anibee](http://anibee.tv/movie/id/Anime)|Indonesia|||
-|[Animax UK](https://www.animaxtv.co.uk/)|United Kingdom|||
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Relaunched version of Tate Anime. iOS and Android app only.|
 | [Anime Digital Network]( https://animedigitalnetwork.fr/ ) | France, Luxembourg and Belgium |         ||
 |[AnimeLab](https://www.animelab.com)|Australia and New Zealand|English||
@@ -36,7 +34,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [R18.com](https://r18.com) | Worldwide |  |Adult site. Providing erotic anime|
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle||
 |[Tubi TV](https://tubitv.com/)||||
-| [Tribe](https://www.tribenow.tv/id)                  | Indonesia      | Japanese with Indonesian subtitle |Anime catalogue via Aniplus|
 | [VRV](https://vrv.co/)                               | United States  |  |Anime catalogue via Crunchyroll and Funimation|
 | [Viewster](https://www.viewster.com/genre/58/anime/) |                |         ||
 | [Vimeo](https://vimeo.com/) | *Worldwide |  |Has some indie anime|
