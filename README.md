@@ -32,6 +32,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [Nico Nico Channel]( ch.nicovideo.jp )               | Japan |         ||
 | [Ponimu](http://ponimu.com/)                         | Indonesia      | Japanese with Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
 | [R18.com](https://r18.com) | Worldwide |  |Adult site. Providing erotic anime|
+| [Sony Crackle](https://www.sonycrackle.com/shows) |  |  ||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle||
 |[Tubi TV](https://tubitv.com/)||||
 | [VRV](https://vrv.co/)                               | United States  |  |Anime catalogue via Crunchyroll and Funimation|
