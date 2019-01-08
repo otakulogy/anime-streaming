@@ -19,7 +19,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|         ||
 |[Docomo Anime Store](https://anime.dmkt-sp.jp/)|Japan|||
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)| Japan|||
-| [Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provising adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
+| [Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 | [Funimation](https://www.funimation.com/) |North and Latin America|English||
 | [HiDive](http://hidive.com/)                         |                | English, Portuguese and Spanish, subtitle and dub depends on availability |Contents licensed via Sentai Filmworks|
 |[HOOQ](https://www.hooq.tv/welcome)|South East Asia and India|||
@@ -28,7 +28,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [iflix]( https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
 |[iQiyi](http://www.iqiyi.com/)|Mainland China||Video on Demand Service|
 |[Kazé](http://anime.kaze.fr/)|France|||
-|[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)|||Providing cult anime that licensed by Digital Media Rights|
+|[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)|||Provides cult anime that licensed by Digital Media Rights|
 | [Netflix](https://netflix.com)         | Worldwide except Mainland China, Syria, North Korea and Crimea |         |Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 | [Nico Nico Channel]( ch.nicovideo.jp )               | Japan |         ||
 |[PlutoTV](http://pluto.tv/watch/anime-all-day)|United States||Live-channel only. Also provides all-ages anime channel.|
