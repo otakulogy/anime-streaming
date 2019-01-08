@@ -25,7 +25,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[HOOQ](https://www.hooq.tv/welcome)|South East Asia and India|||
 | [Hulu]( https://www.hulu.com/)                      | United States |         ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
-| [iflix]( https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on avalability|Included as free service on Indonesia's Indihome internet service|
+| [iflix]( https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
 |[iQiyi](http://www.iqiyi.com/)|Mainland China||Video on Demand Service|
 |[Kazé](http://anime.kaze.fr/)|France|||
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)|||Providing cult anime that licensed by Digital Media Rights|
