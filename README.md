@@ -12,11 +12,11 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | [Anime Digital Network]( https://animedigitalnetwork.fr/ ) | France, Luxembourg and Belgium |         ||
 |[AnimeLab](https://www.animelab.com)|Australia and New Zealand|English||
 | [Anime on Demand](https://www.anime-on-demand.de/)  | Germany |         ||
-| [Aniplus](https://www.aniplus-asia.com/vod/)| Singapore      |         ||
+| [Aniplus](https://www.aniplus-asia.com/vod/)| Singapore|Japanese dub with English subtitle||
 |[AsianCrush](https://www.asiancrush.com)|||Providing content that licensed by Digital Media Rights|
 |[Bandai Channel](http://www.b-ch.com/)|Japan|||
-| [BiliBili](https://www.bilibili.com/) | Mainland China |         ||
-| [Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|         ||
+| [BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub with Mandarin subtitle||
+| [Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English substitle; Portugues and Spanish dub depends on availability|Included in VRV subsciption|
 |[Docomo Anime Store](https://anime.dmkt-sp.jp/)|Japan|||
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)| Japan|||
 | [Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
