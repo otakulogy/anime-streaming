@@ -53,7 +53,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle||
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
-|[Tubi TV](https://tubitv.com/)|Northj America|Japanese dub with English subtitle|Free with advertisement.|
+|[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Videopass](https://videopass.jp)|Japan|Japanese||
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
