@@ -42,6 +42,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)|||Provides cult anime that licensed by Digital Media Rights|
+|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English and Chinese subtitle|Free via Youtube|
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Online streaming and TV channel; subscription-based|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
