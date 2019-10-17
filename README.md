@@ -29,6 +29,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 |[FOD](http://fod.fujitv.co.jp)|Japan|Japanese|Provides Fuji TV content|
 |[Funimation](https://www.funimation.com/) |North and Latin America|English||
+|[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Partnership with Cool Japan Fund|
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
 |[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability |Contents licensed via Sentai Filmworks|
