@@ -2,7 +2,7 @@
 
 A curated list of worldwide legal anime streaming.
 
-For searching specific anime, you can use [because.moe](http://because.moe/) (US, UK, CA, AU) or [Kitsu](https://kitsu.io/anime).
+For searching specific anime, you can use [because.moe](http://because.moe/) (US, UK, CA, AU), [Kitsu](https://kitsu.io/anime) (US), or [JustWatch](https://www.justwatch.com).
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
