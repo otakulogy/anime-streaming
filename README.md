@@ -55,6 +55,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
 |[ProSieben Maxx](https://www.prosiebenmaxx.de/)|Germany||Free to watch|
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
+|[RetroCrush](https://www.retrocrush.tv)||||
 |[Starzplay](http://starzplay.com)|United Arab Emirates|English sub||
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle||
