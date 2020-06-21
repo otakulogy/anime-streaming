@@ -20,13 +20,13 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Aniplus](https://www.aniplus-asia.com/vod/)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
 |[Amazon](http://amazon.com) | Worldwide |||
 |[AsianCrush](https://www.asiancrush.com)|Wordwide||Mainly for Asian drama, providing content that licensed by Digital Media Rights|
-|[Bandai Channel](http://www.b-ch.com/)|Japan|||
+|[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
 |[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub with Mandarin subtitle||
 |[ConTV](http://www.contv.com/category-movie/97/tv-shows/)||||
 |[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English substitle; Portugues and Spanish dub depends on availability|Included in VRV subsciption|
-|[Docomo Anime Store](https://anime.dmkt-sp.jp/)|Japan|||
-|[DMM](http://www.dmm.com/digital/videomarket/anime/)| Japan|||
+|[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
+|[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 |[FOD](http://fod.fujitv.co.jp)|Japan|Japanese|Provides Fuji TV content|
 |[Funimation](https://www.funimation.com/) |North and Latin America|English||
