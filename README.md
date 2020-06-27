@@ -6,7 +6,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Abema.tv](https://abema.tv/) | Japan |Japanese||
+|[Abema.tv](https://abema.tv/video/genre/animation) | Japan |Japanese|Free to watch anime|
 |[Adult Swim](http://www.adultswim.com/videos)|Australia, New Zealand, United States||Free|
 |[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria|||
 |[All 4](https://www.channel4.com/)|English|UK|Free VOD service|
