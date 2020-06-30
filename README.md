@@ -12,7 +12,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[All 4](https://www.channel4.com/)|English|UK|Free VOD service|
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
-|[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Relaunched version of Tate Anime. iOS and Android app only.|
+|[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Host anime and seiyuu content. iOS and Android app only. Produced by Production I.G. Relaunched version of Tate Anime.|
 |[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub||
 |[Anime Digital Network](http://animedigitalnetwork.fr/)|Belgium, France, Luxembourg|||
 |[Anime on Demand](https://www.anime-on-demand.de/)|Germany|||
