@@ -70,3 +70,12 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Watchbox](https://www.watchbox.de/anime/)|Germany, Austria|||
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
+
+
+# Free to watch Youtube channel
+
+|[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)|Worldwide|Japanese, English||
+|[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Asian languages dub/sub|Gundam franchise only|
+|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Southeast Asia, Nepal, India, Bhutan|English|Free to watch|
+|[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese|Free to watch|
+|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)|Worldwide|English, Indonesian, etc (depend on availability)|Anime produced/licensed by Toei. Also provides tokusatsu.|
