@@ -74,6 +74,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 # Free to watch Youtube channel
 
+| Streaming Site  | Country / Area  | Language |  Note  |
+| -------- | -------- | ------ | ---- |
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)|Worldwide|Japanese, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Asian languages dub/sub|Gundam franchise only|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Southeast Asia, Nepal, India, Bhutan|English|Free to watch|
