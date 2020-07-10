@@ -76,8 +76,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)|Worldwide|Japanese, English||
+|[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise only|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Southeast Asia, Nepal, India, Bhutan|English, Chinese, Malay|Free to watch|
 |[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese|Free to watch|
-|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)|Worldwide|English, Indonesian, etc (depend on availability)|Anime produced/licensed by Toei. Also provides tokusatsu.|
+|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Anime produced/licensed by Toei. Also provides tokusatsu.|
