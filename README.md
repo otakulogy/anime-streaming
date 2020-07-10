@@ -46,23 +46,22 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Kitsu](http://kitsu.io)|United States||Free. Partnership with Hulu.|
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
+|[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)|||Provides cult anime that licensed by Digital Media Rights|
-|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English and Chinese subtitle|Free via Youtube|
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Online streaming and TV channel; subscription-based|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
 |[PlutoTV](http://pluto.tv/watch/anime-all-day)|United States||Live-channel only. Also provides all-ages anime channel.|
-|[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
 |[ProSieben Maxx](https://www.prosiebenmaxx.de/)|Germany||Free to watch|
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
 |[RetroCrush](https://www.retrocrush.tv)||||
 |[Starzplay](http://starzplay.com)|United Arab Emirates|English sub||
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
-|[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle||
+|[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle|Anime licensed by Ani-One (Medialink Hong Kong)|
+|[Telasa](https://videopass.jp)|Japan|Japanese||
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
-|[Videopass](https://videopass.jp)|Japan|Japanese||
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
@@ -76,8 +75,15 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese, English||
+|[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Licensed by Medialink Hong Kong|
+|[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise only|
-|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Southeast Asia, Nepal, India, Bhutan|English, Chinese, Malay|Free to watch|
-|[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese|Free to watch|
-|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Anime produced/licensed by Toei. Also provides tokusatsu.|
+|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Licensed by Muse Communication Taiwan|
+|[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese|Licensed by Muse Communication Taiwan|
+|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Produced/licensed by Toei. Also provides tokusatsu.|
+
+# Deprecated
+
+| Streaming Site  | Country / Area  | Language |  Note  |
+| -------- | -------- | ------ | ---- |
+|[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
