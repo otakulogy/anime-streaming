@@ -34,6 +34,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Partnership with Cool Japan Fund|
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
 |[GYAO!](https://gyao.yahoo.co.jp/ct/anime/)||Japanese|Free anime provided by Yahoo! Japan|
+|[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
 |[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed via Sentai Filmworks|
 |[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philliphines|||
