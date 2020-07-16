@@ -52,6 +52,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Online streaming and TV channel; subscription-based|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
+|[Okko.tv](https://okko.tv)|Russia|Russian dub|Only has small amount of anime|
 |[PlutoTV](http://pluto.tv/watch/anime-all-day)|United States||Live-channel only. Also provides all-ages anime channel.|
 |[ProSieben Maxx](https://www.prosiebenmaxx.de/)|Germany||Free to watch|
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
