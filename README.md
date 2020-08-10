@@ -20,7 +20,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
 |[Aniplus](https://www.aniplus-asia.com/vod/)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
 |[Amazon](http://amazon.com) | Worldwide |||
-|[AsianCrush](https://www.asiancrush.com)|Wordwide||Mainly for Asian drama, providing content that licensed by Digital Media Rights|
+|[AsianCrush](https://www.asiancrush.com)|Wordwide|English sub or dub|Free to watch; mainly for Asian drama; providing content that licensed by Digital Media Rights|
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
 |[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub with Mandarin subtitle||
@@ -46,11 +46,10 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
 |[Kazé](http://anime.kaze.fr/)|France|||
-|[Kitsu](http://kitsu.io)|United States||Free. Partnership with Hulu.|
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
 |[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
-|[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)|||Provides cult anime that licensed by Digital Media Rights|
+|[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Online streaming and TV channel; subscription-based|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
@@ -58,7 +57,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[PlutoTV](http://pluto.tv/watch/anime-all-day)|United States||Live-channel only. Also provides all-ages anime channel.|
 |[ProSieben Maxx](https://www.prosiebenmaxx.de/)|Germany||Free to watch|
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
-|[RetroCrush](https://www.retrocrush.tv)||||
+|[RetroCrush](https://www.retrocrush.tv)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
 |[Starzplay](http://starzplay.com)|United Arab Emirates|English sub||
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle|Anime licensed by Ani-One (Medialink Hong Kong)|
