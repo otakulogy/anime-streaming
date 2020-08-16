@@ -1,9 +1,24 @@
 # Legal Anime Streaming List
 
+<p align="center">
+	<a href="https://otakulogy.github.io/manga-platform/">Manga</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="https://otakulogy.github.io/tokusatsu-streaming">Tokusatsu</a>
+</p>
+
 A curated list of worldwide legal anime streaming.
 This list specifically made for Japanese animation works.
 
 For searching specific anime, you can use [because.moe](http://because.moe/) (US, UK, CA, AU), [Kitsu](https://kitsu.io/anime) (US), or [JustWatch](https://www.justwatch.com).
+
+## Contents:
+- [Anime Streaming Platform](#anime-streaming-platform)
+- [Free to watch Youtube channel](#free-to-watch-youtube-channel)
+- [Deprecated](#deprecated)
+
+## Anime Streaming Platform
+
+----
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
@@ -74,18 +89,28 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
 
 
-# Free to watch Youtube channel
+## Free to watch Youtube channel
+
+----
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Licensed by Medialink Hong Kong|
+|[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Japan|Raw||
+|[AnimeLog (International)](https://www.youtube.com/channel/UCgEoMXWqA1cQuJxRhvJXKhQ)||English|Soon to be launched|
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise only|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Licensed by Muse Communication Taiwan|
-|[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese|Licensed by Muse Communication Taiwan|
+|[Muse Malaysia](https://www.youtube.com/channel/UC8I6E03SVRqPgAnrlrQfoYg)|Malaysia|Malay||
+|[Muse Thailand](https://www.youtube.com/channel/UCn8hjQOnGYR1AZtYYMYP5jQ)|Thailand|Thai||
+|[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese||
+|[Muse木棉花-HK](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ)|Hong Kong|Chinese||
+|[Muse木棉花-TW](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)|Taiwan|Chinese||
 |[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Produced/licensed by Toei. Also provides tokusatsu.|
 
-# Deprecated
+## Deprecated
+
+----
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
