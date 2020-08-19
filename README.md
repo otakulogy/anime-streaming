@@ -99,14 +99,15 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Japan|Raw||
 |[AnimeLog (International)](https://www.youtube.com/channel/UCgEoMXWqA1cQuJxRhvJXKhQ)||English|Soon to be launched|
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
-|[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise only|
+|[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise official channel|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Licensed by Muse Communication Taiwan|
 |[Muse Malaysia](https://www.youtube.com/channel/UC8I6E03SVRqPgAnrlrQfoYg)|Malaysia|Malay||
 |[Muse Thailand](https://www.youtube.com/channel/UCn8hjQOnGYR1AZtYYMYP5jQ)|Thailand|Thai||
 |[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese||
 |[Muse木棉花-HK](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ)|Hong Kong|Chinese||
 |[Muse木棉花-TW](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)|Taiwan|Chinese||
-|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Produced/licensed by Toei. Also provides tokusatsu.|
+|[TMSアニメ公式チャンネル](https://www.youtube.com/channel/UCkVvAm5jb62IMIJQj4wPVGA)|Japan|Japanese|TMS Entertainment official channel|
+|[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Toei official channel. Also provides tokusatsu.|
 
 ## Deprecated
 
