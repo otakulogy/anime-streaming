@@ -39,8 +39,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
 |[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub with Mandarin subtitle||
-|[ConTV](http://www.contv.com/category-movie/97/tv-shows/)||||
-|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English substitle; Portugues and Spanish dub depends on availability|Included in VRV subsciption|
+|[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
+|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English subtitle; Portuguese and Spanish dub depends on availability|Included in VRV subscription|
 |[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
@@ -53,10 +53,10 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
 |[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed via Sentai Filmworks|
-|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philliphines|||
-|[Hulu]( https://www.hulu.com/)| United States | English subtitle and/or dub ||
+|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines|||
+|[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
-|[iflix]( https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
+|[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
 |[iQiyi](http://www.iqiyi.com/)|China and Taiwan|Mandarin and Cantonese subtitle and/or dub|Video on Demand Service|
 |[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
@@ -85,7 +85,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
 |[Watchbox](https://www.watchbox.de/anime/)|Germany, Austria|||
-|[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
+|[WeTV](https://wetv.vip/)|Indonesia, Thailand, Philippines||Tencent-owned, only has small amount of anime|
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
 
 
