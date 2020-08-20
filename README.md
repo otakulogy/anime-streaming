@@ -53,7 +53,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
 |[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed via Sentai Filmworks|
-|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines|||
 |[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
 |[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
@@ -115,4 +114,5 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
+|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines|||
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
