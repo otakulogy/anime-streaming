@@ -115,5 +115,5 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Daisuki](httpsDaisuki.net) | Worldwide | English sub | Discontinued in October 2017
+|[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
