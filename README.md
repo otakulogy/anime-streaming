@@ -95,7 +95,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | -------- | -------- | ------ | ---- |
 |[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Licensed by Medialink Hong Kong|
 |[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Japan|Raw||
-|[AnimeLog (International)](https://www.youtube.com/channel/UCgEoMXWqA1cQuJxRhvJXKhQ)||English|Soon to be launched|
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise official channel|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Licensed by Muse Communication Taiwan|
