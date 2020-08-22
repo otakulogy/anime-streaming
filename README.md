@@ -79,12 +79,12 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Telasa](https://videopass.jp)|Japan|Japanese||
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
+|[TVNOW](https://tvnow.de/specials/anime/)|Germany|||
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
-|[Watchbox](https://www.watchbox.de/anime/)|Germany, Austria|||
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
 
