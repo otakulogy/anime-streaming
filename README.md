@@ -77,15 +77,14 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Telasa](https://videopass.jp)|Japan|Japanese||
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
+|[TVNOW](https://tvnow.de/specials/anime/)|Germany|||
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
-|[Watchbox](https://www.watchbox.de/anime/)|Germany, Austria|||
-|[WeTV](https://wetv.vip/)|Indonesia, Thailand, Philippines||Tencent-owned, only has small amount of anime|
-|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
+|[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
 
 
 ## Free to watch Youtube channel
@@ -114,7 +113,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued in 30 April 2020|
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
+|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued in 30 April 2020|
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
+|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued in 30 June, 2019|
