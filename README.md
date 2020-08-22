@@ -86,7 +86,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
-|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
 
 
 ## Free to watch Youtube channel
@@ -116,3 +115,4 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
+|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
