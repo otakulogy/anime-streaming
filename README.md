@@ -39,8 +39,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
 |[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub with Mandarin subtitle||
-|[ConTV](http://www.contv.com/category-movie/97/tv-shows/)||||
-|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English substitle; Portugues and Spanish dub depends on availability|Included in VRV subsciption|
+|[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
+|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English subtitle; Portuguese and Spanish dub depends on availability|Included in VRV subscription|
 |[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
@@ -53,10 +53,9 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
 |[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed via Sentai Filmworks|
-|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philliphines|||
-|[Hulu]( https://www.hulu.com/)| United States | English subtitle and/or dub ||
+|[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
-|[iflix]( https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
+|[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
 |[iQiyi](http://www.iqiyi.com/)|China and Taiwan|Mandarin and Cantonese subtitle and/or dub|Video on Demand Service|
 |[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
@@ -65,7 +64,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
 |[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
-|[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Online streaming and TV channel; subscription-based|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
 |[Okko.tv](https://okko.tv)|Russia|Russian dub|Only has small amount of anime|
@@ -83,6 +81,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
+|[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
@@ -114,5 +113,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
-|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|||
+|[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
+|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued in 30 April 2020|
+|[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
+|[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
+|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued in 30 June, 2019|
