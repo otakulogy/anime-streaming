@@ -64,7 +64,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
 |[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
-|[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Online streaming and TV channel; subscription-based|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
 |[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
 |[Okko.tv](https://okko.tv)|Russia|Russian dub|Only has small amount of anime|
@@ -81,6 +80,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
+|[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
 |[Watchbox](https://www.watchbox.de/anime/)|Germany, Austria|||
@@ -114,5 +114,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines|||
-|[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
+|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued in 30 April 2020|
+|[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
+|[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
+|[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
