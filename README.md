@@ -98,6 +98,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise official channel|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Licensed by Muse Communication Taiwan|
+|[Muse Indonesia](https://www.youtube.com/channel/UCxxnxya_32jcKj4yN1_kD7A)|Indonesia|Indonesian||
 |[Muse Malaysia](https://www.youtube.com/channel/UC8I6E03SVRqPgAnrlrQfoYg)|Malaysia|Malay||
 |[Muse Thailand](https://www.youtube.com/channel/UCn8hjQOnGYR1AZtYYMYP5jQ)|Thailand|Thai||
 |[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese||
