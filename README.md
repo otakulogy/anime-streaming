@@ -78,6 +78,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
 |[TVNOW](https://tvnow.de/specials/anime/)|Germany|||
+|[U-NEXT](https://video.unext.jp/)|Japan|Japanese|All-in-one streaming: movie, anime, TV dorama, manga, magazine, novel, light novel.|
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
