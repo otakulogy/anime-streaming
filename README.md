@@ -33,7 +33,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Anime Digital Network](http://animedigitalnetwork.fr/)|Belgium, France, Luxembourg|||
 |[Anime on Demand](https://www.anime-on-demand.de/)|Germany|||
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
-|[Aniplus](https://www.aniplus-asia.com/vod/)| South Korea |Korean subtitle||
+|[Aniplus](http://www.aniplustv.com/)| South Korea |Korean subtitle||
 |[Aniplus](https://www.aniplus-asia.com/vod/) (SEA)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
 |[Amazon](http://amazon.com) | Worldwide |||
 |[AsianCrush](https://www.asiancrush.com)|Wordwide|English sub or dub|Free to watch; mainly for Asian drama; providing content that licensed by Digital Media Rights|
