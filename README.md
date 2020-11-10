@@ -114,7 +114,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 ----
 
 | Streaming Site  | Language |  Note  |
-| -------- | -------- | ------ | ---- |
+| -------- | -------- | ------ |
 |[Chibi Maruko-chan - Bahasa Indonesia](https://www.youtube.com/channel/UC60XwJDq4DYtJR8CkAEeHkQ)|Indonesian dub|RTV dub|
 |[Chibi Maruko-chan - Deutsch](https://www.youtube.com/channel/UCZdcfBrt1JD1ER6RUiiKcvA)|German dub||
 |[Chibi Maruko-chan - English](https://www.youtube.com/channel/UCWHgQAAsB6LyYQhIm-IeJ5w)|English dub||
