@@ -90,9 +90,9 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 
 
 ## Free to watch Youtube channel
-
-For Youtube channel specific for one anime title, check the [specific per anime listing](##free-to-watch-youtube-channel)
 ----
+For Youtube channel specific for one anime title, check the [specific per anime listing](#specific-anime)
+
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
