@@ -111,17 +111,20 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Toei official channel. Also provides tokusatsu.|
 
 ### Specific anime
+----
 
-|[Chibi Maruko-chan - Bahasa Indonesia](https://www.youtube.com/channel/UC60XwJDq4DYtJR8CkAEeHkQ)|Indonesian dub|Global|RTV dub|
-|[Chibi Maruko-chan - Deutsch](https://www.youtube.com/channel/UCZdcfBrt1JD1ER6RUiiKcvA)|German dub|Global||
-|[Chibi Maruko-chan - English](https://www.youtube.com/channel/UCWHgQAAsB6LyYQhIm-IeJ5w)|English dub|Global||
-|[Chibi Maruko-chan - Español](https://www.youtube.com/channel/UC_VKghQX9fZAg2YOiTKO4mg)|Spanish dub|Global||
-|[Chibi Maruko-chan - 日本語](https://www.youtube.com/c/ChibiMarukoChannel)|Japanese raw|Global||
-|[Chibi Maruko-chan - 中文](https://www.youtube.com/channel/UClHebX3GBL9lzvH_eJB_7iw)|Chinese dub|Global||
-|[Chibi Maruko-chan - 한국](https://www.youtube.com/channel/UCO5egaCPrtNvlVLh2ESWglw)|Korean dub|Global||
-|[Coji Coji/コジコジチャンネル](https://www.youtube.com/channel/UCdXfS4sqd-OS19z69cmcXyA)||||
-|[GJ8Man GJ 8マン](https://www.youtube.com/c/GJ8%E3%83%9E%E3%83%B3)|Japanese|Global||
-|[Oishinbo/美味しんぼ 公式チャンネル【デジタルリマスター版】](https://www.youtube.com/channel/UCeyC9t-tByuko20fzMwXr4w)|Japanese raw with English subtitle|Global|Digital Remaster version|
+| Streaming Site  | Language |  Note  |
+| -------- | -------- | ------ | ---- |
+|[Chibi Maruko-chan - Bahasa Indonesia](https://www.youtube.com/channel/UC60XwJDq4DYtJR8CkAEeHkQ)|Indonesian dub|RTV dub|
+|[Chibi Maruko-chan - Deutsch](https://www.youtube.com/channel/UCZdcfBrt1JD1ER6RUiiKcvA)|German dub||
+|[Chibi Maruko-chan - English](https://www.youtube.com/channel/UCWHgQAAsB6LyYQhIm-IeJ5w)|English dub||
+|[Chibi Maruko-chan - Español](https://www.youtube.com/channel/UC_VKghQX9fZAg2YOiTKO4mg)|Spanish dub||
+|[Chibi Maruko-chan - 日本語](https://www.youtube.com/c/ChibiMarukoChannel)|Japanese||
+|[Chibi Maruko-chan - 中文](https://www.youtube.com/channel/UClHebX3GBL9lzvH_eJB_7iw)|Chinese dub||
+|[Chibi Maruko-chan - 한국](https://www.youtube.com/channel/UCO5egaCPrtNvlVLh2ESWglw)|Korean dub||
+|[Coji Coji/コジコジチャンネル](https://www.youtube.com/channel/UCdXfS4sqd-OS19z69cmcXyA)|Japanese|||
+|[GJ8Man GJ 8マン](https://www.youtube.com/c/GJ8%E3%83%9E%E3%83%B3)|Japanese||
+|[Oishinbo/美味しんぼ 公式チャンネル【デジタルリマスター版】](https://www.youtube.com/channel/UCeyC9t-tByuko20fzMwXr4w)|Japanese raw with English softsubtitle|Digital Remaster version|
 
 ## Deprecated
 
