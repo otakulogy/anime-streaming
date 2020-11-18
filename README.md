@@ -97,7 +97,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Licensed by Medialink Hong Kong|
-|[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Japan|Raw||
+|[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Japan|Raw|Joint venture between Nippon Animation, Tezuka Productions, Toei Animation, Shogakukan-Shueisha Productions, ShinEi Animation, and Kodansha|
 |[AnimeLog (Global)](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Worldwide|English sub, Spanish or Brazilian Portuguese dub||
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise official channel|
