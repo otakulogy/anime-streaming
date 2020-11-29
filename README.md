@@ -47,8 +47,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 |[FOD](http://fod.fujitv.co.jp)|Japan|Japanese|Provides Fuji TV content|
 |[Funimation](https://www.funimation.com/) |North and Latin America|English||
-|[Genflix](https://genflix.co.id)|Indonesia|Indonesian|Free service available; Anime provided by Ponimu and Sushiroll|
-|[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Partnership with Cool Japan Fund|
+|[Genflix](https://genflix.co.id)|Indonesia|Indonesian|Free service available; Anime provided by Sushiroll|
+|[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Anime provided by Waku Waku Japan|
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
 |[GYAO!](https://gyao.yahoo.co.jp/ct/anime/)||Japanese|Free anime provided by Yahoo! Japan|
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
