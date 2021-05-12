@@ -99,12 +99,11 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Licensed by Medialink Hong Kong|
-|[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Japan|Raw|Joint venture between Nippon Animation, Tezuka Productions, Toei Animation, Shogakukan-Shueisha Productions, ShinEi Animation, and Kodansha|
-|[AnimeLog (Global)](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Worldwide|English sub, Spanish or Brazilian Portuguese dub||
+|[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Medialink Hong Kong main channel|
+|[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Worldwide|Japanese raw, English sub, Spanish or Brazilian Portuguese dub|Joint venture between Nippon Animation, Tezuka Productions, Toei Animation, Shogakukan-Shueisha Productions, ShinEi Animation, and Kodansha. Anime availibility depends on specific region.|
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise official channel|
-|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Licensed by Muse Communication Taiwan|
+|[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Muse Communication Taiwan main channel|
 |[Muse Indonesia](https://www.youtube.com/channel/UCxxnxya_32jcKj4yN1_kD7A)|Indonesia|Indonesian||
 |[Muse Malaysia](https://www.youtube.com/channel/UC8I6E03SVRqPgAnrlrQfoYg)|Malaysia and Brunei Darussalam|Malay||
 |[Muse Thailand](https://www.youtube.com/channel/UCn8hjQOnGYR1AZtYYMYP5jQ)|Thailand|Thai||
