@@ -39,7 +39,8 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[AsianCrush](https://www.asiancrush.com)|Wordwide|English sub or dub|Free to watch; mainly for Asian drama; providing content that licensed by Digital Media Rights|
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
-|[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub with Mandarin subtitle||
+|[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
+|[BiliBili (SEA)](https://global.bilibili.com/en) | Southeast Asia |English and Thai subtitle|Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
 |[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English subtitle; Portuguese and Spanish dub depends on availability|Included in VRV subscription|
 |[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
@@ -53,7 +54,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[GYAO!](https://gyao.yahoo.co.jp/ct/anime/)||Japanese|Free anime provided by Yahoo! Japan|
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
-|[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed via Sentai Filmworks|
+|[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed by Sentai Filmworks|
 |[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
 |[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
@@ -62,6 +63,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
 |[Kazé](http://anime.kaze.fr/)|France|||
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
+|[Mangatoon](https://mangatoon.mobi/id/genre/anime) (ID)|Indonesia|Indonesian sub|Anime licensed by Muse Communication|
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
 |[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
