@@ -25,7 +25,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Abema.tv](https://abema.tv/video/genre/animation) | Japan |Japanese|Free to watch anime|
 |[Adult Swim](http://www.adultswim.com/videos)|Australia, New Zealand, United States||Free|
 |[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria|||
-|[All 4](https://www.channel4.com/)|English|UK|Free VOD service|
+|[All 4](https://www.channel4.com/)|UK|English|Free VOD service|
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Host anime and seiyuu content. iOS and Android app only. Produced by Production I.G. Relaunched version of Tate Anime.|
