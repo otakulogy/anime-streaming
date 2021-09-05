@@ -110,6 +110,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Muse Việt Nam](https://www.youtube.com/channel/UCott96qGP5ADmsB_yNQMvDA)|Vietnam|Vietnamese||
 |[Muse木棉花-HK](https://www.youtube.com/channel/UCOsFUU8EtJGDd6-AouF_MwQ)|Hong Kong|Chinese||
 |[Muse木棉花-TW](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)|Taiwan|Chinese||
+|[Throwback Toons](https://www.youtube.com/channel/UC_Uds2DkeWyMhpdSSKw-e8Q)|US|English dub|NA Sony licensed old animation|
 |[TMSアニメ公式チャンネル](https://www.youtube.com/channel/UCkVvAm5jb62IMIJQj4wPVGA)|Japan|Japanese|TMS Entertainment official channel|
 |[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Toei official channel. Also provides tokusatsu.|
 
