@@ -62,6 +62,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
 |[Kazé](http://anime.kaze.fr/)|France|||
+|[KlikFilm](https://klikfilm.com/v4/section/74)|Indonesia|Indonesian sub|All TMS Produced anime|
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Mangatoon](https://mangatoon.mobi/id/genre/anime) (ID)|Indonesia|Indonesian sub|Anime licensed by Muse Communication|
 |[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
