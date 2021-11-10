@@ -29,9 +29,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Host anime and seiyuu content. iOS and Android app only. Produced by Production I.G. Relaunched version of Tate Anime.|
-|[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub||
 |[Anime Digital Network](http://animedigitalnetwork.fr/)|Belgium, France, Luxembourg|||
-|[Anime on Demand](https://www.anime-on-demand.de/)|Germany|||
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
 |[Aniplus](http://www.aniplustv.com/)| South Korea |Korean subtitle||
 |[Aniplus](https://www.aniplus-asia.com/vod/) (SEA)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
@@ -137,8 +135,10 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
+|[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub and dub| Catalogue merged into Funimation<br>Discontinued on 9 December 2021 |
+|[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
-|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued in 30 April 2020|
+|[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued on 30 April 2020|
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
-|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued in 30 June, 2019|
+|[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued on 30 June 2019|
