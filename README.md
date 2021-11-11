@@ -24,7 +24,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | -------- | -------- | ------ | ---- |
 |[Abema.tv](https://abema.tv/video/genre/animation) | Japan |Japanese|Free to watch anime|
 |[Adult Swim](http://www.adultswim.com/videos)|Australia, New Zealand, United States||Free|
-|[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria|||
 |[All 4](https://www.channel4.com/)|UK|English|Free VOD service|
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
@@ -47,7 +46,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 |[FOD](http://fod.fujitv.co.jp)|Japan|Japanese|Provides Fuji TV content|
-|[Funimation](https://www.funimation.com/) |North and Latin America|English||
+|[Funimation](https://www.funimation.com/) |North and Latin America, UK, Australia, New Zealand|English||
 |[Genflix](https://genflix.co.id)|Indonesia|Indonesian|Free service available; Anime provided by Sushiroll|
 |[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Anime provided by Waku Waku Japan|
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
@@ -75,6 +74,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[ProSieben Maxx](https://www.prosiebenmaxx.de/)|Germany||Free to watch|
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
 |[RetroCrush](https://www.retrocrush.tv)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
+|[RTL+](https://tvnow.de/specials/anime/)|Germany|German dub|Free to watch with ads|
 |[Starzplay](http://starzplay.com)|United Arab Emirates|English sub||
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle|Anime licensed by Ani-One (Medialink Hong Kong)|
@@ -82,14 +82,16 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[TrueID](https://trueid.id/categories/O0JV8ggnKvK0/)|Indonesia|Indonesian sub/dub|All dub based on TV version|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
-|[TVNOW](https://tvnow.de/specials/anime/)|Germany|||
 |[U-NEXT](https://video.unext.jp/)|Japan|Japanese|All-in-one streaming: movie, anime, TV dorama, manga, magazine, novel, light novel.|
 |[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
-|[Wakanim](http://www.wakanim.tv/)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec), Sweden, Norway, Iceland, Finland, Denmark, Germany, Austria, Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|||
+|[Wakanim DE](https://www.wakanim.tv/de)|Germany, Austria| German subs and dubs||
+|[Wakanim FR](https://www.wakanim.tv/fr)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec)|French subs and dubs||
+|[Wakanim RU](https://www.wakanim.tv/ru)|Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|Russian subs and dubs/voice overs||
+|[Wakanim SC](https://www.wakanim.tv/sc)|Sweden, Norway, Iceland, Finland, Denmark|English subs and dubs|Most contents are licensed from Funimation|
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
 
 
@@ -137,6 +139,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
+|[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria||Merged into German Wakanim catalogue|
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
 |[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued in 30 April 2020|
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
