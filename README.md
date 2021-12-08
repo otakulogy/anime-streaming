@@ -137,7 +137,6 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-
 |[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria||Merged into German Wakanim catalogue|
 |[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub and dub| Catalogue merged into Funimation<br>Discontinued on 9 December 2021 |
 |[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
