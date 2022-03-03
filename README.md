@@ -130,6 +130,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Coji Coji/コジコジチャンネル](https://www.youtube.com/channel/UCdXfS4sqd-OS19z69cmcXyA)|Japanese|||
 |[GJ8Man GJ 8マン](https://www.youtube.com/c/GJ8%E3%83%9E%E3%83%B3)|Japanese||
 |[Oishinbo/美味しんぼ 公式チャンネル【デジタルリマスター版】](https://www.youtube.com/channel/UCeyC9t-tByuko20fzMwXr4w)|Japanese raw with English softsubtitle|Digital Remaster version|
+|[Ore, Tsushima](https://www.youtube.com/user/AsmikAce21)|English sub|TV and Web version
 
 ## Deprecated
 
