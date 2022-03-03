@@ -132,7 +132,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[ANIMAX](https://www.animax-plus.de/) | Germany | German | Will be merged into crunchyroll
+|[ANIMAX Germany](https://www.animax-plus.de/) | Germany | German | Will be merged into crunchyroll
 |[Funimation](https://www.funimation.com/) |North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
 |[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
 |[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria| German subs and dubs | Will be merged into Crunchyroll
