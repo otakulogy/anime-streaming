@@ -132,10 +132,10 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[ANIMAX Germany](https://www.animax-plus.de/) | Germany | German | Will be merged into crunchyroll
-|[Funimation](https://www.funimation.com/) |North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
+|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dubs | Will be merged into Crunchyroll
+|[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
 |[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
-|[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria| German subs and dubs | Will be merged into Crunchyroll
+|[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;FR](https://www.wakanim.tv/fr) | France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec) | French subs and dubs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;RU](https://www.wakanim.tv/ru) | Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine. | Russian subs and dubs/voice overs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;SC](https://www.wakanim.tv/sc) | Sweden, Norway, Iceland, Finland, Denmark|English subs and dubs | Will be merged into Crunchyroll
