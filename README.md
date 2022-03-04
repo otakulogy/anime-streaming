@@ -15,6 +15,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 - [Anime Streaming Platform](#anime-streaming-platform)
 - [Free to watch Youtube channel](#free-to-watch-youtube-channel)
 - [Deprecated](#deprecated)
+- [Discontinued](#discontinued)
 
 ## Anime Streaming Platform
 
@@ -44,14 +45,13 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 |[FOD](http://fod.fujitv.co.jp)|Japan|Japanese|Provides Fuji TV content|
-|[Funimation](https://www.funimation.com/) |North and Latin America, UK, Australia, New Zealand|English||
 |[Genflix](https://genflix.co.id)|Indonesia|Indonesian|Free service available; Anime provided by Sushiroll|
 |[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Anime provided by Waku Waku Japan|
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
 |[GYAO!](https://gyao.yahoo.co.jp/ct/anime/)||Japanese|Free anime provided by Yahoo! Japan|
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
-|[HiDive](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed by Sentai Filmworks|
+|[HIDIVE](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed by Sentai Filmworks|
 |[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
 |[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
@@ -81,15 +81,10 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[TrueID](https://trueid.id/categories/O0JV8ggnKvK0/)|Indonesia|Indonesian sub/dub|All dub based on TV version|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
 |[U-NEXT](https://video.unext.jp/)|Japan|Japanese|All-in-one streaming: movie, anime, TV dorama, manga, magazine, novel, light novel.|
-|[VRV](https://vrv.co/)|United States|English subtitle/dub|Content provided by Crunchyroll and HiDive|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
-|[Wakanim DE](https://www.wakanim.tv/de)|Germany, Austria| German subs and dubs||
-|[Wakanim FR](https://www.wakanim.tv/fr)|France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec)|French subs and dubs||
-|[Wakanim RU](https://www.wakanim.tv/ru)|Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine.|Russian subs and dubs/voice overs||
-|[Wakanim SC](https://www.wakanim.tv/sc)|Sweden, Norway, Iceland, Finland, Denmark|English subs and dubs|Most contents are licensed from Funimation|
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
 
 
@@ -132,6 +127,20 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Oishinbo/美味しんぼ 公式チャンネル【デジタルリマスター版】](https://www.youtube.com/channel/UCeyC9t-tByuko20fzMwXr4w)|Japanese raw with English softsubtitle|Digital Remaster version|
 
 ## Deprecated
+
+----
+
+| Streaming Site  | Country / Area  | Language |  Note  |
+| -------- | -------- | ------ | ---- |
+|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dubs | Will be merged into Crunchyroll
+|[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
+|[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
+|[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
+|[Wakanim&nbsp;FR](https://www.wakanim.tv/fr) | France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec) | French subs and dubs | Will be merged into Crunchyroll
+|[Wakanim&nbsp;RU](https://www.wakanim.tv/ru) | Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine. | Russian subs and dubs/voice overs | Will be merged into Crunchyroll
+|[Wakanim&nbsp;SC](https://www.wakanim.tv/sc) | Sweden, Norway, Iceland, Finland, Denmark|English subs and dubs | Will be merged into Crunchyroll
+
+## Discontinued
 
 ----
 
