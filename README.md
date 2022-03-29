@@ -58,11 +58,11 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[iQiyi](http://www.iqiyi.com/)|China and Taiwan|Mandarin and Cantonese subtitle and/or dub|Video on Demand Service|
 |[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
+|[Joyn](https://www.joyn.de/serien)|Germany, Austria|German Subs and Dubs|Most shows are available with dubs only<br>Has most episodes only for limited time after TV broadcast on Pro7MAXX|
 |[Kazé](http://anime.kaze.fr/)|France|||
 |[KlikFilm](https://klikfilm.com/v4/section/74)|Indonesia|Indonesian sub|All TMS Produced anime|
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Mangatoon](https://mangatoon.mobi/id/genre/anime) (ID)|Indonesia|Indonesian sub|Anime licensed by Muse Communication|
-|[Maxdome](https://www.maxdome.de/)|Germany, Austria|||
 |[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
@@ -152,6 +152,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
 |[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued on 30 April 2020|
+|[maxdome](https://maxdome.de)|Germany, Austria|German dubs|Discontinued in September 2020<br>Content merged into Joyn<br>Brand name was sold and the platform relaunched in October 2021 but without an anime portfolio
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued on 30 June 2019|
