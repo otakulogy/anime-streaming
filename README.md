@@ -38,7 +38,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
 |[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
-|[BiliBili (SEA)](https://global.bilibili.com/en) | Southeast Asia |English and Thai subtitle|Anime licensed by Medialink HK and Muse Communication TW|
+|[BStation / BiliBili (SEA)](https://www.bilibili.tv/) | Southeast Asia |English, Thai, Vietnamese, Indonesian subtitle | Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
 |[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English subtitle; Portuguese and Spanish dub depends on availability|Included in VRV subscription|
 |[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
@@ -80,12 +80,13 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[TrueID](https://trueid.id/categories/O0JV8ggnKvK0/)|Indonesia|Indonesian sub/dub|All dub based on TV version|
 |[Tubi TV](https://tubitv.com/)|North America|Japanese dub with English subtitle|Free with advertisement.|
-|[U-NEXT](https://video.unext.jp/)|Japan|Japanese|All-in-one streaming: movie, anime, TV dorama, manga, magazine, novel, light novel.|
+|[U-NEXT](https://video.unext.jp/)|Japan|Japanese|All-in-one streaming: movie, anime, TV dorama, manga, magazine, novel, light novel|
+|[Vidio](https://www.vidio.com/categories/anime)|Indonesia|Indonesian sub and dub|Licensed by IMMG, Muse Asia, Ani-One, and Aniplus|
 |[Viewster](https://www.viewster.com/genre/58/anime/)||||
 |[Vimeo](https://vimeo.com/)|Worldwide || Has some indie anime, content availability per country depends on content holder|
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
-|[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines||Tencent-owned, only has small amount of anime|
+|[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines|English sub, Indonesian dub|Tencent-owned, licensed by Muse Asia and Ani-One|
 
 
 ## Free to watch Youtube channel
