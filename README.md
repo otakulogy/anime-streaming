@@ -40,7 +40,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
 |[BStation / BiliBili (SEA)](https://www.bilibili.tv/) | Southeast Asia |English, Thai, Vietnamese, Indonesian subtitle | Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
-|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with English subtitle; Portuguese and Spanish dub depends on availability|Included in VRV subscription|
+|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with subtitles and dubs in different languages (English, French, German, Russian, Italian, Portuguese, Spanish, Arabic depending on availability)|Included in VRV subscription|
 |[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
@@ -134,7 +134,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dubs | Will be merged into Crunchyroll
+|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dubs | Catalogue has been merged into Crunchyroll<br>Will be closed in September 2022
 |[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
 |[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
 |[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
