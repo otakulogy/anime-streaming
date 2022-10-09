@@ -73,6 +73,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
 |[RetroCrush](https://www.retrocrush.tv)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
 |[RTL+](https://tvnow.de/specials/anime/)|Germany|German dub|Free to watch with ads|
+|[Selecta Visión](https://shop.selecta-vision.com/simulcast/) | Spain |Spanish sub | Simulcasts licensed by Selecta Visión |
 |[Starzplay](http://starzplay.com)|United Arab Emirates|English sub||
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle|Anime licensed by Ani-One (Medialink Hong Kong)|
