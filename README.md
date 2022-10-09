@@ -135,7 +135,6 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dubs | Catalogue has been merged into Crunchyroll<br>Will be closed in September 2022
 |[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
 |[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
 |[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
@@ -150,6 +149,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria||Merged into German Wakanim catalogue|
+|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dub | Catalogue merged into Crunchyroll<br>Discontinued on 30 September 2022|
 |[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub and dub| Catalogue merged into Funimation<br>Discontinued on 9 December 2021 |
 |[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
