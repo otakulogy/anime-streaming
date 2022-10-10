@@ -59,7 +59,6 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
 |[Joyn](https://www.joyn.de/serien)|Germany, Austria|German Subs and Dubs|Most shows are available with dubs only<br>Has most episodes only for limited time after TV broadcast on Pro7MAXX|
-|[Kazé](http://anime.kaze.fr/)|France|||
 |[KlikFilm](https://klikfilm.com/v4/section/74)|Indonesia|Indonesian sub|All TMS Produced anime|
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Mangatoon](https://mangatoon.mobi/id/genre/anime) (ID)|Indonesia|Indonesian sub|Anime licensed by Muse Communication|
@@ -136,7 +135,6 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dubs | Catalogue has been merged into Crunchyroll<br>Will be closed in September 2022
 |[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
 |[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
 |[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
@@ -151,10 +149,12 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Akiba Pass](http://www.akibapass.de/de/v2)|Germany, Austria||Merged into German Wakanim catalogue|
+|[ANIMAX Germany](https://www.animax-plus.de/) | Germany, Austria | German dub | Catalogue merged into Crunchyroll<br>Discontinued on 30 September 2022|
 |[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub and dub| Catalogue merged into Funimation<br>Discontinued on 9 December 2021 |
 |[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
 |[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued on 30 April 2020|
+|[Kazé](http://anime.kaze.fr/)|France||Merged into Crunchyroll|
 |[maxdome](https://maxdome.de)|Germany, Austria|German dubs|Discontinued in September 2020<br>Content merged into Joyn<br>Brand name was sold and the platform relaunched in October 2021 but without an anime portfolio
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
