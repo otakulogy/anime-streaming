@@ -29,44 +29,57 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Host anime and seiyuu content. iOS and Android app only. Produced by Production I.G. Relaunched version of Tate Anime.|
+|[Anime Hodai/アニメ放題](https://www.animehodai.jp)|Japan|Japanese||
 |[Anime Digital Network](http://animedigitalnetwork.fr/)|Belgium, France, Luxembourg|||
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
 |[Aniplus](http://www.aniplustv.com/)| South Korea |Korean subtitle||
 |[Aniplus](https://www.aniplus-asia.com/vod/) (SEA)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
-|[Amazon](http://amazon.com) | Worldwide |||
+|[Amazon Prime](http://amazon.com) | Worldwide ||Produce original anime|
 |[AsianCrush](https://www.asiancrush.com)|Wordwide|English sub or dub|Free to watch; mainly for Asian drama; providing content that licensed by Digital Media Rights|
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
-|[Bahamut Anime Crazy](https://ani.gamer.com.tw/)|Taiwan|||
-|[BiliBili](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
+|[Bahamut Anime Crazy 巴哈姆特動画瘋](https://ani.gamer.com.tw/)|Taiwan|||
+|[BiliBili 哔哩哔哩](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
 |[BStation / BiliBili (SEA)](https://www.bilibili.tv/) | Southeast Asia |English, Thai, Vietnamese, Indonesian subtitle | Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
 |[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with subtitles and dubs in different languages (English, French, German, Russian, Italian, Portuguese, Spanish, Arabic depending on availability)|Included in VRV subscription|
-|[dAnimeStore](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
+|[dAnimeStore dアニメスト](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
+|[Disney+](https://www.disneyplus.com/)|||Produce original anime and sublicensing|
+|[Disney+ Hotstar](https://www.hotstar.com/)|South Asia and Southeast Asia||Produce original anime and sublicensing from Muse Communication|
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
+|[dTV](http://www.dmm.com/digital/videomarket/anime/)|Japan||NTT Docomo's streaming service|
 |[Fakku!](https://www.fakku.net/anime)|Worldwide except Japan|English subtitle|Provides adult anime that licensed by [Media Blasters](http://media-blasters.com/)' Kitty Media|
 |[FOD](http://fod.fujitv.co.jp)|Japan|Japanese|Provides Fuji TV content|
+|[Friday](https://video.friday.tw/)|Taiwan|||
 |[Genflix](https://genflix.co.id)|Indonesia|Indonesian|Free service available; Anime provided by Sushiroll|
 |[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Anime provided by Waku Waku Japan|
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
 |[GYAO!](https://gyao.yahoo.co.jp/ct/anime/)||Japanese|Free anime provided by Yahoo! Japan|
+|[HamiVideo](https://hamivideo.hinet.net)|Taiwan|||
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
 |[HIDIVE](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed by Sentai Filmworks|
+|[HikariTV ひかりTV](https://www.hikaritv.net/)|Japan|||
 |[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
-|[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Included as free service on Indonesia's Indihome internet service|
 |[iQiyi](http://www.iqiyi.com/)|China and Taiwan|Mandarin and Cantonese subtitle and/or dub|Video on Demand Service|
-|[iQiyi International](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
+|[iQiyi (International)](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
 |[Joyn](https://www.joyn.de/serien)|Germany, Austria|German Subs and Dubs|Most shows are available with dubs only<br>Has most episodes only for limited time after TV broadcast on Pro7MAXX|
 |[KlikFilm](https://klikfilm.com/v4/section/74)|Indonesia|Indonesian sub|All TMS Produced anime|
+|[KKTV](https://www.kktv.me/)|Taiwan|||
+|[Laftel](https://www.laftel.net)|South Korea|||
+|[Line TV](https://www.linetv.tw/)|Taiwan|||
 |[Mangas](http://www.mangas.fr/)|Belgium, France|||
 |[Mangatoon](https://mangatoon.mobi/id/genre/anime) (ID)|Indonesia|Indonesian sub|Anime licensed by Muse Communication|
 |[MBS Dougaizm](https://dizm.mbs.jp/anime/)|Japan|Japanese dub|Anime owned by Mainichi Broadcasting System|
+|[Mewatch](https://www.mewatch.sg)|Singapore|English and Chinese||
 |[Midnight Pulp](http://www.midnightpulp.com/browse/anime/)||English sub or dub|Free to watch; provides cult anime that licensed by Digital Media Rights|
+|[Milplus](https://front.milplus.jp)|Japan|||
+|[MyVideo](hhttps://www.myvideo.net.tw/)|Taiwan|||
 |[Netflix](https://netflix.com)|Worldwide except Mainland China, Syria, North Korea and Crimea||Support various devices ([more info](https://en.wikipedia.org/wiki/List_of_Netflix-compatible_devices))|
-|[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese dub||
+|[Nico Nico Channel](https://ch.nicovideo.jp)|Japan|Japanese||
 |[Okko.tv](https://okko.tv)|Russia|Russian dub|Only has small amount of anime|
+|[Paravi](https://www.paravi.jp)|Japan|||
 |[PlutoTV](http://pluto.tv/watch/anime-all-day)|United States||Live-channel only. Also provides all-ages anime channel.|
 |[ProSieben Maxx](https://www.prosiebenmaxx.de/)|Germany||Free to watch|
 |[R18.com](https://r18.com)|Worldwide||Japanese adult video site. Per content purchase only.|
@@ -76,6 +89,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[Starzplay](http://starzplay.com)|United Arab Emirates|English sub||
 |[Sony Crackle](https://www.sonycrackle.com/shows)|North America, Australia, LATAM countries|English subtitle only||
 |[Sushiroll](http://sushiroll.co.id/)|Indonesia|Japanese dub with Indonesian subtitle|Anime licensed by Ani-One (Medialink Hong Kong)|
+|[Tencent Video](https://v.qq.com)|China|||
 |[Telasa](https://videopass.jp)|Japan|Japanese||
 |[Toku](https://www.watchtoku.com/)|North America|Japanese dub with English subtitle|Mainly provides tokusatsu|
 |[TrueID](https://trueid.id/categories/O0JV8ggnKvK0/)|Indonesia|Indonesian sub/dub|All dub based on TV version|
@@ -117,6 +131,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 
 | Streaming Site  | Language |  Note  |
 | -------- | -------- | ------ |
+|[Atashin Chi/【アニメ】あたしンち公式チャンネル](https://www.youtube.com/c/Atashinchi)|Japanese raw with English softsubtitle||
 |[Chibi Maruko-chan - Bahasa Indonesia](https://www.youtube.com/channel/UC60XwJDq4DYtJR8CkAEeHkQ)|Indonesian dub|RTV dub|
 |[Chibi Maruko-chan - Deutsch](https://www.youtube.com/channel/UCZdcfBrt1JD1ER6RUiiKcvA)|German dub||
 |[Chibi Maruko-chan - English](https://www.youtube.com/channel/UCWHgQAAsB6LyYQhIm-IeJ5w)|English dub||
@@ -154,6 +169,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
 |[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued on 30 April 2020|
+|[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Not providing anime anymore|
 |[Kazé](http://anime.kaze.fr/)|France||Merged into Crunchyroll|
 |[maxdome](https://maxdome.de)|Germany, Austria|German dubs|Discontinued in September 2020<br>Content merged into Joyn<br>Brand name was sold and the platform relaunched in October 2021 but without an anime portfolio
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
