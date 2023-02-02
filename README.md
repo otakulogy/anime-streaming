@@ -112,6 +112,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Ani-One](https://www.youtube.com/channel/UC0wNSTMWIL3qaorLx0jie6A)|Hong Kong, Taiwan, Indonesia, Thailand, Singapore, India|English, Chinese, Indonesian, Thai|Medialink Hong Kong main channel|
 |[AnimeLog](https://www.youtube.com/channel/UCsnDtu-g18tDA4miToMOjXQ)|Worldwide|Japanese raw, English sub, Spanish or Brazilian Portuguese dub|Joint venture between Nippon Animation, Tezuka Productions, Toei Animation, Shogakukan-Shueisha Productions, ShinEi Animation, and Kodansha. Anime availibility depends on specific region.|
 |[Bandai Spirits](https://www.youtube.com/channel/UCuxB1suCoCqAKiljh_0xE4A)||Japanese raw, English||
+|[Daisaku Ikeda Children's Stories](https://www.youtube.com/@daisakuikedachildrensstori5600)||Cantonese, English, French, Korean, Mandarin, Spanish|Original anime made by Ikeda Daisaku|
 |[GundamInfo](https://www.youtube.com/user/GundamInfo)|Worldwide|English, Chinese, Korean, other Southeast Asian languages dub/sub|Gundam franchise official channel|
 |[Muse Asia](https://www.youtube.com/channel/UCGbshtvS9t-8CW11W7TooQg)|Singapore, Indonesia, the Philippines, Thailand, Vietnam, Malaysia, India, Cambodia, Laos, Myanmar, Nepal, Bandladesh, Bhutan, and Brunei|English, Chinese, Malay|Muse Communication Taiwan main channel|
 |[Muse India](https://www.youtube.com/channel/UCYYhAzgWuxPauRXdPpLAX3Q)|India|English||
