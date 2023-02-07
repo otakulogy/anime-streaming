@@ -124,6 +124,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Muse木棉花-TW](https://www.youtube.com/channel/UCgdwtyqBunlRb-i-7PnCssQ)|Taiwan|Chinese||
 |[Throwback Toons](https://www.youtube.com/channel/UC_Uds2DkeWyMhpdSSKw-e8Q)|US|English dub|NA Sony licensed old animation|
 |[TMSアニメ公式チャンネル](https://www.youtube.com/channel/UCkVvAm5jb62IMIJQj4wPVGA)|Japan|Japanese|TMS Entertainment official channel|
+|[Toei Animation Museum Channel/東映アニメーションミュージアムチャンネル](https://www.youtube.com/@toeianime_MC)||Japanese only|Toei official channel. Mostly old anime.|
 |[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Toei official channel. Also provides tokusatsu.|
 
 ### Specific anime
