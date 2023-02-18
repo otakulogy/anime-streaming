@@ -126,6 +126,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[TMSアニメ公式チャンネル](https://www.youtube.com/channel/UCkVvAm5jb62IMIJQj4wPVGA)|Japan|Japanese|TMS Entertainment official channel|
 |[Toei Animation Museum Channel/東映アニメーションミュージアムチャンネル](https://www.youtube.com/@toeianime_MC)||Japanese only|Toei official channel. Mostly old anime.|
 |[Toei Tokusatsu World Official](https://www.youtube.com/channel/UC7pddu3yyzkzFEiXfQLex3w)||English, Indonesian, etc (depends on fan translation)|Toei official channel. Also provides tokusatsu.|
+|[Viz Media](https://www.youtube.com/@vizmedia)||English|Temporarily release anime for free for North America|
 
 ### Specific anime
 ----
