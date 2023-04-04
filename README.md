@@ -25,6 +25,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 | -------- | -------- | ------ | ---- |
 |[Abema.tv](https://abema.tv/video/genre/animation) | Japan |Japanese|Free to watch anime|
 |[Adult Swim](http://www.adultswim.com/videos)|Australia, New Zealand, United States||Free|
+|[AKIBA PASS TV](https://akibapasstv.vhx.tv/)|Germany, Austria|German|Anime licensed by German publisher peppermint anime|
 |[All 4](https://www.channel4.com/)|UK|English|Free VOD service|
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
@@ -63,6 +64,7 @@ For searching specific anime, you can use [because.moe](http://because.moe/) (US
 |[iQiyi](http://www.iqiyi.com/)|China and Taiwan|Mandarin and Cantonese subtitle and/or dub|Video on Demand Service|
 |[iQiyi (International)](http://www.iq.com/)|Southeast Asia|English, Indonesian, Malay, Thai, Vietnamese, Traditional, and Simplified Chiense|First three episode free|
 |[Japanese Animated Film Classic](https://animation.filmarchives.jp/en/index.html)|Worldwide||Japanese government-owned classic anime preservation|
+|[Jonu Play](https://jonuplay.com/)|Spain|Spanish|
 |[Joyn](https://www.joyn.de/serien)|Germany, Austria|German Subs and Dubs|Most shows are available with dubs only<br>Has most episodes only for limited time after TV broadcast on Pro7MAXX|
 |[KlikFilm](https://klikfilm.com/v4/section/74)|Indonesia|Indonesian sub|All TMS Produced anime|
 |[KKTV](https://www.kktv.me/)|Taiwan|||
@@ -153,7 +155,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
-|[VRV](https://vrv.co/) | United States | English | Will be merged into Crunchyroll
+|[VRV](https://vrv.co/) | United States | English | Merged into Crunchyroll<br>will be discontinued on 3 May 2023
 |[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;FR](https://www.wakanim.tv/fr) | France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec) | French subs and dubs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;RU](https://www.wakanim.tv/ru) | Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine. | Russian subs and dubs/voice overs | Will be merged into Crunchyroll
