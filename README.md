@@ -9,7 +9,7 @@
 A curated list of worldwide legal anime streaming.
 This list specifically made for Japanese animation works.
 
-For searching specific anime, you can use [because.moe](http://because.moe/) (US, UK, CA, AU), [Kitsu](https://kitsu.io/anime) (US), [JustWatch](https://www.justwatch.com), or [LiveChart](https://www.livechart.me).
+For searching specific anime, you can use [LiveChart](https://www.livechart.me) (more reliable global coverage), [MyAnimeList](https://myanimelist.net/), [AniList](anilist.co/), [because.moe](http://because.moe/) (US, UK, CA, AU only), [Kitsu](https://kitsu.io/anime) (US only), or [JustWatch](https://www.justwatch.com).
 
 ## Contents:
 - [Anime Streaming Platform](#anime-streaming-platform)
