@@ -155,7 +155,6 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
-|[VRV](https://vrv.co/) | United States | English | Merged into Crunchyroll<br>will be discontinued on 3 May 2023
 |[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;FR](https://www.wakanim.tv/fr) | France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec) | French subs and dubs | Will be merged into Crunchyroll
 |[Wakanim&nbsp;RU](https://www.wakanim.tv/ru) | Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine. | Russian subs and dubs/voice overs | Will be merged into Crunchyroll
@@ -179,4 +178,5 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[maxdome](https://maxdome.de)|Germany, Austria|German dubs|Discontinued in September 2020<br>Content merged into Joyn<br>Brand name was sold and the platform relaunched in October 2021 but without an anime portfolio
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
+|[VRV](https://vrv.co/) | United States | English | Merged into Crunchyroll<br>Discontinued on 8 May 2023
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued on 30 June 2019|
