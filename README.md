@@ -155,10 +155,6 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
 |[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
-|[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Will be merged into Crunchyroll
-|[Wakanim&nbsp;FR](https://www.wakanim.tv/fr) | France, Belgium, Netherlands, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec) | French subs and dubs | Will be merged into Crunchyroll
-|[Wakanim&nbsp;RU](https://www.wakanim.tv/ru) | Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine. | Russian subs and dubs/voice overs | Will be merged into Crunchyroll
-|[Wakanim&nbsp;SC](https://www.wakanim.tv/sc) | Sweden, Norway, Iceland, Finland, Denmark|English subs and dubs | Will be merged into Crunchyroll
 
 ## Discontinued
 
@@ -179,4 +175,8 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[Neon Alley](http://www.neonalley.com/)|Canada and US|English subtitle and/or dub|Relaunched as VIZ in 2016.
 |[Ponimu](http://ponimu.com/) | Indonesia  | Indonesian subtitle | Discontinued in January 2020. 49000IDR per month. The anime line-up is consists of show from Hakuhodo DY / Showgate|
 |[VRV](https://vrv.co/) | United States | English | Merged into Crunchyroll<br>Discontinued on 8 May 2023
+|[Wakanim&nbsp;DE](https://www.wakanim.tv/de) | Germany, Austria | German subs and dubs | Catalogue merged into Crunchyroll<br>Discontinued on 3 November 2023
+|[Wakanim&nbsp;FR](https://www.wakanim.tv/fr) | France, Belgium, Luxembourg, Switzerland, Tunisia, Morocco, Algeria, Canada (Quebec) | French subs and dubs | Catalogue merged into Crunchyroll<br>Discontinued on 3 November 2023
+|[Wakanim&nbsp;RU](https://www.wakanim.tv/ru) | Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Georgia, Hungary, Latvia, Lithuania, Macedonia, Moldova, Poland, Romania, Russia, San Marino, Serbia, Slovakia, Slovenia and Ukraine. | Russian subs and dubs/voice overs | Catalogue merged into Crunchyroll<br>Discontinued on 3 November 2023
+|[Wakanim&nbsp;SC](https://www.wakanim.tv/sc) | Sweden, Norway, Iceland, Finland, Denmark, Netherlands|English subs and dubs | Catalogue  merged into Crunchyroll<br>Discontinued on 3 November 2023
 |[Yahoo! View](http://view.yahoo.com/browse/tv/genre/anime)| United States|| Discontinued on 30 June 2019|
