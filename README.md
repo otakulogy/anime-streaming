@@ -42,7 +42,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[BiliBili 哔哩哔哩](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
 |[BStation / BiliBili (SEA)](https://www.bilibili.tv/) | Southeast Asia |English, Thai, Vietnamese, Indonesian subtitle | Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
-|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese dub with subtitles and dubs in different languages (English, French, German, Russian, Italian, Portuguese, Spanish, Arabic depending on availability)|Included in VRV subscription|
+|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability<br>English (US, IN), French, German, Russian, Italian, Portuguese, Spanish (LA, EU), Arabic, Hindi, Tamil|Some free to watch content without login or subscription needed|
 |[dAnimeStore dアニメスト](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
 |[Disney+](https://www.disneyplus.com/)|||Produce original anime and sublicensing|
 |[Disney+ Hotstar](https://www.hotstar.com/)|South Asia and Southeast Asia||Produce original anime and sublicensing from Muse Communication|
