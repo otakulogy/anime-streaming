@@ -13,6 +13,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 
 ## Contents:
 - [Anime Streaming Platform](#anime-streaming-platform)
+- [Prime Video Channel](#prime-video-channel)
 - [Free to watch Youtube channel](#free-to-watch-youtube-channel)
 - [Deprecated](#deprecated)
 - [Discontinued](#discontinued)
@@ -35,8 +36,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
 |[Aniplus](http://www.aniplustv.com/)| South Korea |Korean subtitle||
 |[Aniplus](https://www.aniplus-asia.com/vod/) (SEA)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
-|[Aniverse](https://www.amazon.de/gp/video/storefront/ref=atv_dp_ch_lo?language=de_DE&contentType=subscription&contentId=aniversede&benefitId=aniversede)|Austria, Germany|German subs and dubs|Prime Video Channel|
-|[Amazon Prime Video](https://primevideo.com) | Worldwide ||Produce original anime|
+|[Amazon Prime Video](https://primevideo.com) | Worldwide ||Produce original anime<br>Additional content through [Channels](#prime-video-channel)|
 |[AsianCrush](https://www.asiancrush.com)|Wordwide|English sub or dub|Free to watch; mainly for Asian drama; providing content that licensed by Digital Media Rights|
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy 巴哈姆特動画瘋](https://ani.gamer.com.tw/)|Taiwan|||
@@ -103,6 +103,22 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines|English sub, Indonesian dub|Tencent-owned, licensed by Muse Asia and Ani-One|
+
+
+## Prime Video Channel
+----
+Prime Video Channels are additional subscriptions on top of Prime Video. Content offerings may differ from corresponding standalone services.
+
+| Streaming Site | Country / Area | Language | Note |
+| -------- | -------- | ------ | ---- |
+|[Animation Digital Network](https://www.primevideo.com/storefront?benefitId=animedigitalfr)|France, Belgium, Netherlands|French subs and dubs|Also available as standalone service|
+|[Anime Generation](https://www.primevideo.com/storefront?benefitId=yamatoit)| Italy | Italian subs and dubs ||
+|[Anime Times](https://www.amazon.co.jp/gp/video/storefront?benefitId=animetimesjp)|Japan||Also available as standalone service|
+|[aniverse](https://www.amazon.de/gp/video/storefront?benefitId=aniversede)|Austria, Germany|German subs and dubs||
+|Crunchyroll|[United States](https://www.amazon.com/gp/video/storefront?benefitId=crunchyrollus), [Canada](https://www.primevideo.com/storefront?benefitId=crunchyrollca), [United Kingdom](https://www.amazon.co.uk/gp/video/storefront?benefitId=crunchyrolluk), [Sweden](https://www.primevideo.com/storefront?benefitId=crunchyrollse)|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability|Also available as standalone service|
+|[dアニメストア](https://www.amazon.co.jp/gp/video/storefront?benefitId=danime)|Japan||Also available as standalone service|
+|HBO Max|[Brazil](https://www.primevideo.com/storefront?benefitId=hbomaxbr), [Mexico](https://www.primevideo.com/storefront?benefitId=hbomaxmx)|Spanish and Portuguese subs and dubs|Also available as standalone service|
+|[HIDIVE](https://www.amazon.com/gp/video/storefront?benefitId=hidiveus)|United States|English subs and dubs|Also available as standalone service|
 
 
 ## Free to watch Youtube channel
