@@ -13,6 +13,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 
 ## Contents:
 - [Anime Streaming Platform](#anime-streaming-platform)
+- [Prime Video Channel](#prime-video-channel)
 - [Free to watch Youtube channel](#free-to-watch-youtube-channel)
 - [Deprecated](#deprecated)
 - [Discontinued](#discontinued)
@@ -36,15 +37,15 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
 |[Aniplus](http://www.aniplustv.com/)| South Korea |Korean subtitle||
 |[Aniplus](https://www.aniplus-asia.com/vod/) (SEA)| Singapore and selected South East Asian countries|Japanese dub with English subtitle||
-|[Amazon Prime](http://amazon.com) | Worldwide ||Produce original anime|
+|[Amazon Prime Video](https://primevideo.com) | Worldwide ||Produce original anime<br>Additional content through [Channels](#prime-video-channel)|
 |[AsianCrush](https://www.asiancrush.com)|Wordwide|English sub or dub|Free to watch; mainly for Asian drama; providing content that licensed by Digital Media Rights|
 |[Bandai Channel](http://www.b-ch.com/)|Japan||1800+ titles|
 |[Bahamut Anime Crazy 巴哈姆特動画瘋](https://ani.gamer.com.tw/)|Taiwan|||
 |[BiliBili 哔哩哔哩](https://www.bilibili.com/) | Mainland China |Japanese dub; Chinese (TR/SP) subtitle||
 |[BStation / BiliBili (SEA)](https://www.bilibili.tv/) | Southeast Asia |English, Thai, Vietnamese, Indonesian subtitle | Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
-|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability<br>English (US, IN), French, German, Russian, Italian, Portuguese, Spanish (LA, EU), Arabic, Hindi, Tamil|Some free to watch content without login or subscription needed|
-|[dAnimeStore dアニメスト](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month|
+|[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability<br>English (US, IN), French, German, Russian, Italian, Portuguese, Spanish (LA, EU), Arabic, Hindi, Tamil|Some free to watch content without login or subscription needed<br>Also available as Prime Video Channel in some countries|
+|[dAnimeStore dアニメスト](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month<br>Also available as Prime Video Channel|
 |[Disney+](https://www.disneyplus.com/)|||Produce original anime and sublicensing|
 |[Disney+ Hotstar](https://www.hotstar.com/)|South Asia and Southeast Asia||Produce original anime and sublicensing from Muse Communication|
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
@@ -58,7 +59,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[HamiVideo](https://hamivideo.hinet.net)|Taiwan|||
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
 |[Hentai Haven](https://hentaihaven.org)|Worldwide|Japanese dub with English subtitle|Partnership with Fakku|
-|[HIDIVE](http://hidive.com/)|| English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed by Sentai Filmworks|
+|[HIDIVE](http://hidive.com/)|Australia, Canada, Ireland, New Zealand, United Kingdom and United States | English, Portuguese and Spanish, subtitle and dub depends on availability|Contents licensed by Sentai Filmworks<br>Also available as Prime Video Channel|
 |[HikariTV ひかりTV](https://www.hikaritv.net/)|Japan|||
 |[Hulu](https://www.hulu.com/)| United States | English subtitle and/or dub ||
 |[Hulu Japan](https://www.happyon.jp/)|Japan|||
@@ -103,6 +104,22 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[VIZ](https://www.viz.com/watch)|Canada and US|English subtitle and/or dub|Free to watch; Anime licensed by VIZ Media; Used to be Neon Alley|
 |[VVVVID](https://www.vvvvid.it/)|Italy|||
 |[WeTV](https://wetv.vip/)|Indonesia, Thailand, Phillipines|English sub, Indonesian dub|Tencent-owned, licensed by Muse Asia and Ani-One|
+
+
+## Prime Video Channel
+----
+Prime Video Channels are additional subscriptions on top of Prime Video. Content offerings may differ from corresponding standalone services.
+
+| Streaming Site | Country / Area | Language | Note |
+| -------- | -------- | ------ | ---- |
+|[Animation Digital Network](https://www.primevideo.com/storefront?benefitId=animedigitalfr)|France, Belgium, Netherlands|French subs and dubs|Also available as standalone service|
+|[Anime Generation](https://www.primevideo.com/storefront?benefitId=yamatoit)| Italy | Italian subs and dubs ||
+|[Anime Times](https://www.amazon.co.jp/gp/video/storefront?benefitId=animetimesjp)|Japan||Also available as standalone service|
+|[aniverse](https://www.amazon.de/gp/video/storefront?benefitId=aniversede)|Austria, Germany|German subs and dubs||
+|Crunchyroll|[United States](https://www.amazon.com/gp/video/storefront?benefitId=crunchyrollus), [Canada](https://www.primevideo.com/storefront?benefitId=crunchyrollca), [United Kingdom](https://www.amazon.co.uk/gp/video/storefront?benefitId=crunchyrolluk), [Sweden](https://www.primevideo.com/storefront?benefitId=crunchyrollse)|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability|Also available as standalone service|
+|[dアニメストア](https://www.amazon.co.jp/gp/video/storefront?benefitId=danime)|Japan||Also available as standalone service|
+|HBO Max|[Brazil](https://www.primevideo.com/storefront?benefitId=hbomaxbr), [Mexico](https://www.primevideo.com/storefront?benefitId=hbomaxmx)|Spanish and Portuguese subs and dubs|Also available as standalone service|
+|[HIDIVE](https://www.amazon.com/gp/video/storefront?benefitId=hidiveus)|United States|English subs and dubs|Also available as standalone service|
 
 
 ## Free to watch Youtube channel
