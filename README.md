@@ -30,8 +30,8 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[All 4](https://www.channel4.com/)|UK|English|Free VOD service|
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
-|[Animation Digital Network (ADN) DE](https://animedigitalnetwork.de/)|Austria, Germany|German subs and dubs||
-|[Animation Digital Network (ADN) FR](https://animedigitalnetwork.fr/)|Belgium, France, Luxembourg|French subs and dubs|Also available as Prime Video Channel|
+|[Animation Digital Network (ADN) DE](https://animationdigitalnetwork.de/)|Austria, Germany|German subs and dubs||
+|[Animation Digital Network (ADN) FR](https://animationdigitalnetwork.fr/)|Belgium, France, Luxembourg|French subs and dubs|Also available as Prime Video Channel|
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Host anime and seiyuu content. iOS and Android app only. Produced by Production I.G. Relaunched version of Tate Anime.|
 |[Anime Hodai/アニメ放題](https://www.animehodai.jp)|Japan|Japanese||
 |[Anime-Planet](https://www.anime-planet.com/anime/watch-online/)|||Partnership with Crunchyroll, Hulu, and Viewster|
