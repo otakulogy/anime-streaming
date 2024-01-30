@@ -45,7 +45,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[BStation / BiliBili (SEA)](https://www.bilibili.tv/) | Southeast Asia |English, Thai, Vietnamese, Indonesian subtitle | Anime licensed by Medialink HK and Muse Communication TW|
 |[ConTV](https://www.contv.com/category-movie/154/tv-shows/)||||
 |[Crunchyroll](http://www.crunchyroll.com/)|Worldwide except Mainland China, most of their contents is not available in Asia|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability<br>English (US, IN), French, German, Russian, Italian, Portuguese, Spanish (LA, EU), Arabic, Hindi, Tamil|Some free to watch content without login or subscription needed<br>Also available as Prime Video Channel in some countries|
-|[dAnimeStore dアニメスト](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month<br>Also available as Prime Video Channel|
+|[dAnimeStore dアニメストア](https://anime.dmkt-sp.jp/)|Japan||3800+ titles catalog with 480JPY per month<br>Also available as Prime Video Channel|
 |[Disney+](https://www.disneyplus.com/)|||Produce original anime and sublicensing|
 |[Disney+ Hotstar](https://www.hotstar.com/)|South Asia and Southeast Asia||Produce original anime and sublicensing from Muse Communication|
 |[DMM](http://www.dmm.com/digital/videomarket/anime/)|Japan|||
@@ -113,13 +113,14 @@ Prime Video Channels are additional subscriptions on top of Prime Video. Content
 | Streaming Site | Country / Area | Language | Note |
 | -------- | -------- | ------ | ---- |
 |[Animation Digital Network](https://www.primevideo.com/storefront?benefitId=animedigitalfr)|France, Belgium, Netherlands|French subs and dubs|Also available as standalone service|
-|[Anime Generation](https://www.primevideo.com/storefront?benefitId=yamatoit)| Italy | Italian subs and dubs ||
+|[Anime Generation](https://www.primevideo.com/storefront?benefitId=yamatoit)| Italy | Italian subs and dubs |Content licensed by Yamato Srl|
 |[Anime Times](https://www.amazon.co.jp/gp/video/storefront?benefitId=animetimesjp)|Japan||Also available as standalone service|
 |[aniverse](https://www.amazon.de/gp/video/storefront?benefitId=aniversede)|Austria, Germany|German subs and dubs||
 |Crunchyroll|[United States](https://www.amazon.com/gp/video/storefront?benefitId=crunchyrollus), [Canada](https://www.primevideo.com/storefront?benefitId=crunchyrollca), [United Kingdom](https://www.amazon.co.uk/gp/video/storefront?benefitId=crunchyrolluk), [Sweden](https://www.primevideo.com/storefront?benefitId=crunchyrollse)|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability|Also available as standalone service|
 |[dアニメストア](https://www.amazon.co.jp/gp/video/storefront?benefitId=danime)|Japan||Also available as standalone service|
 |HBO Max|[Brazil](https://www.primevideo.com/storefront?benefitId=hbomaxbr), [Mexico](https://www.primevideo.com/storefront?benefitId=hbomaxmx)|Spanish and Portuguese subs and dubs|Also available as standalone service|
 |[HIDIVE](https://www.amazon.com/gp/video/storefront?benefitId=hidiveus)|United States|English subs and dubs|Also available as standalone service|
+|Pokémon|[United States](https://amazon.com/gp/video/storefront?benefitId=vdppokuspdzypnep15k), [United Kingdom](https://amazon.co.uk/gp/video/storefront?benefitId=pokemon), [Austria, Germany](https://www.amazon.de/gp/video/storefront?benefitId=pokemonde)|Dubs only|Provides most of the original Pokémon TV anime|
 
 
 ## Free to watch Youtube channel
