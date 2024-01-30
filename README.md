@@ -120,7 +120,7 @@ Prime Video Channels are additional subscriptions on top of Prime Video. Content
 |[dアニメストア](https://www.amazon.co.jp/gp/video/storefront?benefitId=danime)|Japan||Also available as standalone service|
 |HBO Max|[Brazil](https://www.primevideo.com/storefront?benefitId=hbomaxbr), [Mexico](https://www.primevideo.com/storefront?benefitId=hbomaxmx)|Spanish and Portuguese subs and dubs|Also available as standalone service|
 |[HIDIVE](https://www.amazon.com/gp/video/storefront?benefitId=hidiveus)|United States|English subs and dubs|Also available as standalone service|
-|[Pokémon](https://www.amazon.de/gp/video/storefront?benefitId=pokemonde)|Austria, Germany|German dub|Provides most of the original Pokémon TV anime|
+|Pokémon|[United States](https://amazon.com/gp/video/storefront?benefitId=vdppokuspdzypnep15k), [United Kingdom](https://amazon.co.uk/gp/video/storefront?benefitId=pokemon), [Austria, Germany](https://www.amazon.de/gp/video/storefront?benefitId=pokemonde)|Dubs only|Provides most of the original Pokémon TV anime|
 
 
 ## Free to watch Youtube channel
