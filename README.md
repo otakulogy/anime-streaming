@@ -166,14 +166,14 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[GJ8Man GJ 8マン](https://www.youtube.com/c/GJ8%E3%83%9E%E3%83%B3)|Japanese||
 |[Oishinbo/美味しんぼ 公式チャンネル【デジタルリマスター版】](https://www.youtube.com/channel/UCeyC9t-tByuko20fzMwXr4w)|Japanese raw with English softsubtitle|Digital Remaster version|
 |[Ore, Tsushima](https://www.youtube.com/user/AsmikAce21)|English sub|TV and Web version
-
+<!--
 ## Deprecated
 
 ----
 
 | Streaming Site  | Country / Area  | Language |  Note  |
 | -------- | -------- | ------ | ---- |
-|[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English | Will be merged into Crunchyroll
+-->
 
 ## Discontinued
 
@@ -186,6 +186,7 @@ For Youtube channel specific for one anime title, check the [specific per anime 
 |[AnimeLab](https://www.animelab.com)|Australia, New Zealand|English sub and dub| Catalogue merged into Funimation<br>Discontinued on 9 December 2021 |
 |[Anime on Demand](https://www.anime-on-demand.de/) | Germany | German sub and dub | Catalogue merged into Crunchyroll<br>Discontinued on 8 December 2021 |
 |[Daisuki](https://daisuki.net) | Worldwide | English sub | Discontinued in October 2017
+|[Funimation](https://www.funimation.com/) | North and Latin America, UK, Australia, New Zealand | English, Spanish, Portuguese | Catalogue merged into Crunchyroll<br>Discontinued on 2 April 2024 |
 |[GYAO!](https://gyao.yahoo.co.jp/ct/anime/)||Japanese|Free anime provided by Yahoo! Japan<br>Discontinued on 31 March 2023|
 |[HOOQ](https://www.hooq.tv/welcome)|India, Indonesia, Thailand, The Philippines||Discontinued on 30 April 2020|
 |[iflix](https://www.iflix.com/)|Malaysia, Indonesia, the Philippines, Brunei, Thailand, Sri Lanka, the  Maldives, Pakistan, Vietnam, Myanmar, Saudi Arabia, Jordan, Iraq,  Kuwait, Bahrain, Lebanon, Egypt, Sudan, Cambodia, Nigeria, Kenya, Ghana, Nepal, Bangladesh and Zimbabwe |Japanese dub with English, Indonesian, Khmer, Malay, Thai, or Vietnamese, depends on availability|Not providing anime anymore|
