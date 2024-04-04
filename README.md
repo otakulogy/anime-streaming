@@ -55,6 +55,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[Friday](https://video.friday.tw/)|Taiwan|||
 |[Genflix](https://genflix.co.id)|Indonesia|Indonesian|Free service available; Anime provided by Sushiroll|
 |[GoPlay](https://www.gojek.com/goplay/)|Indonesia|Indonesian|Anime provided by Waku Waku Japan|
+|[Go Anime](https://goanime.nl/)|Netherlands, Belgium|Dutch||
 |[Gundam.info](https://gundam.info/)|Wordwide|Japanese dub, English (dub/sub), Cantonese (dub/sub), Indonesian (dub/sub)||
 |[HamiVideo](https://hamivideo.hinet.net)|Taiwan|||
 |[HBO Max](https://www.hbomax.com/)|United States and US territories||Provides anime from Crunchyroll catalogue and Ghibli movies|
