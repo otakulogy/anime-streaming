@@ -114,8 +114,9 @@ Prime Video Channels are additional subscriptions on top of Prime Video. Content
 | Streaming Site | Country / Area | Language | Note |
 | -------- | -------- | ------ | ---- |
 |[Animation Digital Network](https://www.primevideo.com/storefront?benefitId=animedigitalfr)|France, Belgium, Netherlands|French subs and dubs|Also available as standalone service|
+|[Animax + GEM](https://www.primevideo.com/storefront?benefitId=animaxplusgemin)| India || Anime and Japanese drama
 |[Anime Generation](https://www.primevideo.com/storefront?benefitId=yamatoit)| Italy | Italian subs and dubs |Content licensed by Yamato Srl|
-|[Anime Times](https://www.amazon.co.jp/gp/video/storefront?benefitId=animetimesjp)|Japan||Also available as standalone service|
+|Anime Times|[India](https://www.primevideo.com/storefront?benefitId=animetimesin)<br>[Japan](https://www.amazon.co.jp/gp/video/storefront?benefitId=animetimesjp)||Also available as standalone service in Japan|
 |[aniverse](https://www.amazon.de/gp/video/storefront?benefitId=aniversede)|Austria, Germany|German subs and dubs||
 |Crunchyroll|[Austria](https://www.amazon.de/gp/video/storefront?benefitId=crunchyrollde)<br>[Brazil](https://www.primevideo.com/storefront?benefitId=crunchyrollbr)<br>[Canada](https://www.primevideo.com/storefront?benefitId=crunchyrollca)<br>[Germany](https://www.amazon.de/gp/video/storefront?benefitId=crunchyrollde)<br>[Mexico](https://www.primevideo.com/storefront?benefitId=crunchyrollmx)<br>[Sweden](https://www.primevideo.com/storefront?benefitId=crunchyrollse)<br>[United Kingdom](https://www.amazon.co.uk/gp/video/storefront?benefitId=crunchyrolluk)<br>[United States](https://www.amazon.com/gp/video/storefront?benefitId=crunchyrollus)<br>|Mainly Japanese/Mandarin original with subtitles and dubs in different languages depending on local availability|A Channel subscription can also be used for [crunchyroll.com](https://crunchyroll.com) by [linking the Amazon and Crunchroll accounts](https://sso-v2.crunchyroll.com/login/amazon)|
 |[dアニメストア](https://www.amazon.co.jp/gp/video/storefront?benefitId=danime)|Japan||Also available as standalone service|
