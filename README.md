@@ -30,7 +30,7 @@ For searching specific anime, you can use [LiveChart](https://www.livechart.me) 
 |[All 4](https://www.channel4.com/)|UK|English|Free VOD service|
 |[Ani.me](https://ani.me/)||English subtitle | Free streaming with optional ad-free for 5.99USD |
 |[AniTele](https://ch.ani.tv)|Japan|Japanese||
-|[Animation Digital Network (ADN) DE](https://animationdigitalnetwork.de/)|Austria, Germany|German subs and dubs||
+|[Animation Digital Network (ADN) DE](https://animationdigitalnetwork.de/)|Austria, Germany|German subs and dubs|Also available as Prime Video Channel|
 |[Animation Digital Network (ADN) FR](https://animationdigitalnetwork.fr/)|Belgium, France, Luxembourg|French subs and dubs|Also available as Prime Video Channel|
 |[AnimeBeans](https://www.animebeans.com/)|Japan|Japanese|Host anime and seiyuu content. iOS and Android app only. Produced by Production I.G. Relaunched version of Tate Anime.|
 |[Anime Hodai/アニメ放題](https://www.animehodai.jp)|Japan|Japanese||
@@ -113,7 +113,7 @@ Prime Video Channels are additional subscriptions on top of Prime Video. Content
 
 | Streaming Site | Country / Area | Language | Note |
 | -------- | -------- | ------ | ---- |
-|[Animation Digital Network](https://www.primevideo.com/storefront?benefitId=animedigitalfr)|France, Belgium, Netherlands|French subs and dubs|Also available as standalone service|
+|Animation Digital Network|[France<br>Belgium<br>Netherlands](https://www.primevideo.com/storefront?benefitId=animedigitalfr)<br>[Austria<br>Germany](https://www.amazon.de/gp/video/storefront?benefitId=animedigitalde)|Subs and dubs|Also available as standalone service|
 |[Animax + GEM](https://www.primevideo.com/storefront?benefitId=animaxplusgemin)| India || Anime and Japanese drama
 |[Anime Generation](https://www.primevideo.com/storefront?benefitId=yamatoit)| Italy | Italian subs and dubs |Content licensed by Yamato Srl|
 |Anime Times|[India](https://www.primevideo.com/storefront?benefitId=animetimesin)<br>[Japan](https://www.amazon.co.jp/gp/video/storefront?benefitId=animetimesjp)||Also available as standalone service in Japan|
